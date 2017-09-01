@@ -4,7 +4,7 @@
 //
 //  Created by user11 on 9/1/17.
 //  Copyright © 2017 user11. All rights reserved.
-//
+
 
 import UIKit
 
@@ -13,19 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("hello")
-
-        print("hello")
-
-        print("hello")
-
-        print("hello")
-        print("hello")
-
-        
         print("Dharmik")
         
-        
+        print("yatin")
+
         
         // Do any additional setup after loading the view, typically from a nib.
     }
