@@ -13,15 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("hello")
+        print("nilesh")
 
-        print("hello")
-
-        print("hello")
-
-        print("hello")
-        print("hello")
-
+        print("nilesh")
         
         print("Dharmik")
         
